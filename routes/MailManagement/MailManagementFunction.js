@@ -14,7 +14,7 @@ const SendAppointmentRegisteredMailToPatient = async (Patientmail, doctorname, d
 
         let transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
-            port: 586,
+            port: 465,
             ignoreTLS: false,
             secure: true,
             service: 'gmail',
@@ -63,8 +63,7 @@ const SendAppointmentRegisteredMailToDoctor = async (Doctormail, name, date, tim
         console.log(Doctormail, name, date, time)
         let transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
-            port: 586,
-            ignoreTLS: false,
+            port: 465,
             secure: true,
             service: 'gmail',
             auth: {
