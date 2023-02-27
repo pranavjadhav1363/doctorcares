@@ -1,0 +1,12 @@
+15 jan 2023
+Create Appointment
+Fetch Appointments
+Confirm Appointment
+Email Management
+
+16 Jan 2023
+Payment Gateway
+
+
+18 jan 2023
+Frontend

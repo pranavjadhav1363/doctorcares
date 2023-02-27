@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "doctor appointment web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Pranav Jadhav,Dev Thakkar,Atharva Divekar",
+  "license": "ISC",
+  "dependencies": {
+    "12fromto24hours": "^1.2.2",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "nodemailer": "^6.9.0",
+    "time-slots-generator": "^1.0.6"
+  }
+}
