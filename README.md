@@ -30,16 +30,11 @@ The system manages doctors, patients, appointments, and department resources, wi
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Deployment**: [Project Link](https://rhinoceros-flannel-shirt.cyclic.app/)
 
 ## Conclusion
 The Doctor Cares Appointment Booking Portal enhances hospital productivity by providing a comprehensive solution for managing OPD appointments and related hospital resources. With features to automate scheduling and manage information, it reduces manual efforts and improves the patient experience.
 
-## Getting Started
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   npm install
+
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies:
