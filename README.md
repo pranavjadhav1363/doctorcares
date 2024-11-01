@@ -27,7 +27,7 @@ Hospitals face challenges managing high patient volumes, including appointment s
 The system manages doctors, patients, appointments, and department resources, with functionality for adding, updating, and deleting records. By optimizing hospital workflows, the system supports a smooth and organized experience for both staff and patients.
 
 ## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
