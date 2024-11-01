@@ -42,6 +42,7 @@ The Doctor Cares Appointment Booking Portal enhances hospital productivity by pr
    npm install
    
 3.Configure environment variables for database and server settings.
+
 4.Start the server:
   ```bash
 npm start
